@@ -8,7 +8,7 @@ Projects Implemented during Python Upskilling
 2. <u>**Rock Paper Scissors Game</u>**<br>
    &emsp;&emsp;=> A Simple implementation of the rock paper scissors. <br>
 <br>
-3. <u>**Password Generator Application</u>**<br>
+3. <u>**Password Generator Application**</u><br>
    &emsp;&emsp;=> It generates a random password based on user requirement of:<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;i. Number of letters in the password <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ii. Number of special characters in the password<br>
