@@ -16,5 +16,5 @@ Projects Implemented during Python Upskilling
 <br>
 4. <u>**HangMan Application**</u><br>
    &emsp;&emsp;=> There is a list of words which is routinely updated<br>
-   &emsp;&emsp;=> User has 6 chances to guess the word
-   &emsp;&emsp;=> After 6 chances, the user loses the game if the word is not guessed.
+   &emsp;&emsp;=> User has 6 chances to guess the word<br>
+   &emsp;&emsp;=> After 6 chances, the user loses the game if the word is not guessed.<br>
