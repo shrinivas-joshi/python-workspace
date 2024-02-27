@@ -19,3 +19,7 @@ Projects Implemented during Python Upskilling
    &emsp;&emsp;=> User has 6 chances to guess the word<br>
    &emsp;&emsp;=> After 6 chances, the user loses the game if the word is not guessed.<br>
 <br>
+5. Caesar Cipher<br>
+   &emsp;&emsp;=>We can encode or decode our sentences
+   &emsp;&emsp;=>We can have a shift number agreed which will shift the letters accordingly
+<br>
