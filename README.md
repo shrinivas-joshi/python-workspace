@@ -9,6 +9,7 @@ Projects Implemented during Python Upskilling
    &emsp;&emsp;=> A Simple implementation of the rock paper scissors. <br>
 <br>
 3. Password Generator Application<br>
+   &emsp;&emsp;=> Implemented using Loops<br>
    &emsp;&emsp;=> It generates a random password based on user requirement of:<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;i. Number of letters in the password <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ii. Number of special characters in the password<br>
@@ -20,6 +21,9 @@ Projects Implemented during Python Upskilling
    &emsp;&emsp;=> After 6 chances, the user loses the game if the word is not guessed.<br>
 <br>
 5. Caesar Cipher<br>
-   &emsp;&emsp;=>We can encode or decode our sentences
-   &emsp;&emsp;=>We can have a shift number agreed which will shift the letters accordingly
+   &emsp;&emsp;=>We can encode or decode our sentences <br>
+   &emsp;&emsp;=>We can have a shift number agreed which will shift the letters accordingly<br>
 <br>
+6. Silent Auction Program<br>
+   &emsp;&emsp;=> Implemented Using Dictionaries<br>
+   &emsp;&emsp;=> We output the winner with highest bid amount
