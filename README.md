@@ -26,4 +26,9 @@ Projects Implemented during Python Upskilling
 <br>
 6. Silent Auction Program<br>
    &emsp;&emsp;=> Implemented Using Dictionaries<br>
-   &emsp;&emsp;=> We output the winner with highest bid amount
+   &emsp;&emsp;=> We output the winner with highest bid amount <br>
+<br>
+7. BlackJack Program<br>
+    &emsp;&emsp;=> Implemented Using Dictionaries, Functions<br>
+    &emsp;&emsp;=> Live Blackjack game implementation<br>
+   
