@@ -31,4 +31,9 @@ Projects Implemented during Python Upskilling
 7. BlackJack Program<br>
     &emsp;&emsp;=> Implemented Using Dictionaries, Functions<br>
     &emsp;&emsp;=> Live Blackjack game implementation<br>
+<br>
+8. Higher or Lower<br>
+   &emsp;&emsp;=> Game is over when you enter a wrong answer<br>
+   &emsp;&emsp;=> It compares the follower count of two entities<br>
+   &emsp;&emsp;=> We have to select the option which we feel has higher follower count
    
