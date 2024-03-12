@@ -20,5 +20,5 @@ Projects Implemented during Python Upskilling
 8. Higher or Lower : Based on level of difficulty we have to select the option which has the highest follower count
    <br>
 <br>
-9. Coffee Machine : A Python code of Coffee Machine Implementation
+9. Coffee Machine : A Python code of Coffee Machine Implementation using OOP Principles of classes and objects
 <br><br>
