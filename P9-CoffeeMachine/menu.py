@@ -25,8 +25,6 @@ class Menu:
 
     def find_drink(self, order_name):
         for item in self.menu:
-            print(item.name)
-            print(order_name)
             if item.name == order_name:
                 return item
         print("Sorry that item is not available.")
