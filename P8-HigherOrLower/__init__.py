@@ -21,6 +21,8 @@ while not user_is_wrong:
     print(f"Compare A: {first_option['name']},a {first_option['description']}, from {first_option['country']}")
     print(vs)
     second_option = random.choice(data)
+    while first_option['name'] == second_option['name']:
+        second_option = random.choice(data)
     print(f"Compare B: {second_option['name']},a {second_option['description']}, from {second_option['country']}")
 
     user_value = input("Who has more followers? Type 'A' or 'B': ").upper()
